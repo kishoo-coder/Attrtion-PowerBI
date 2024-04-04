@@ -1,1 +1,2 @@
-# Attrtion-PowerBI
+# Attrition-PowerBI
+This repository hosts the files for an Employee Attrition Analysis Dashboard developed using Power BI. The project aims to identify factors contributing to employee attrition by analyzing survey responses, demographic data, and attendance records. The dashboard provides interactive visualizations and insights derived from the analysis. Explore the files to gain insights into the factors affecting employee retention.
